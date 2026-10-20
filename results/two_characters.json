@@ -1,0 +1,45 @@
+{
+ "K71019": {
+  "splices": [],
+  "joins_x_median": [
+   0.83,
+   0.61
+  ],
+  "end_room_MAE": 3.4,
+  "end_room_luma": 32.1,
+  "end_black%": 38.5
+ },
+ "K71020": {
+  "splices": [],
+  "joins_x_median": [
+   0.81,
+   0.35
+  ],
+  "end_room_MAE": 3.4,
+  "end_room_luma": 32.1,
+  "end_black%": 38.6
+ },
+ "K71021": {
+  "splices": [
+   "c2@f76:13.7x",
+   "c2@f229:12.3x"
+  ],
+  "joins_x_median": [
+   0.72,
+   0.6
+  ],
+  "end_room_MAE": 3.4,
+  "end_room_luma": 32.1,
+  "end_black%": 38.5
+ },
+ "K71022": {
+  "splices": [],
+  "joins_x_median": [
+   0.77,
+   0.69
+  ],
+  "end_room_MAE": 3.4,
+  "end_room_luma": 32.1,
+  "end_black%": 38.5
+ }
+}

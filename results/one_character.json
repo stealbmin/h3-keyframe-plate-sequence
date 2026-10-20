@@ -1,0 +1,87 @@
+{
+ "K71019": {
+  "splices": [],
+  "joins_x_median": [
+   0.8,
+   0.66
+  ],
+  "end_room_MAE": 3.0,
+  "end_room_luma": 32.6,
+  "end_black%": 36.8
+ },
+ "C71019": {
+  "splices": [
+   "c2@f8:17.9x"
+  ],
+  "joins_x_median": [
+   1.21,
+   0.24
+  ],
+  "end_room_MAE": 43.2,
+  "end_room_luma": 69.2,
+  "end_black%": 53.1
+ },
+ "K71020": {
+  "splices": [],
+  "joins_x_median": [
+   0.79,
+   0.25
+  ],
+  "end_room_MAE": 3.0,
+  "end_room_luma": 32.6,
+  "end_black%": 36.9
+ },
+ "C71020": {
+  "splices": [],
+  "joins_x_median": [
+   0.59,
+   0.42
+  ],
+  "end_room_MAE": 28.7,
+  "end_room_luma": 48.5,
+  "end_black%": 50.0
+ },
+ "K71021": {
+  "splices": [
+   "c2@f74:7.1x",
+   "c2@f231:7.2x"
+  ],
+  "joins_x_median": [
+   0.39,
+   0.64
+  ],
+  "end_room_MAE": 3.1,
+  "end_room_luma": 32.5,
+  "end_black%": 36.8
+ },
+ "C71021": {
+  "splices": [],
+  "joins_x_median": [
+   0.4,
+   0.27
+  ],
+  "end_room_MAE": 34.2,
+  "end_room_luma": 59.6,
+  "end_black%": 48.4
+ },
+ "K71022": {
+  "splices": [],
+  "joins_x_median": [
+   0.81,
+   0.61
+  ],
+  "end_room_MAE": 3.0,
+  "end_room_luma": 32.6,
+  "end_black%": 36.8
+ },
+ "C71022": {
+  "splices": [],
+  "joins_x_median": [
+   0.76,
+   0.29
+  ],
+  "end_room_MAE": 28.2,
+  "end_room_luma": 49.0,
+  "end_black%": 55.3
+ }
+}

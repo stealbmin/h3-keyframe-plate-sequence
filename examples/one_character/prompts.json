@@ -1,0 +1,17 @@
+{
+ "width": 864,
+ "height": 1152,
+ "length": 243,
+ "prompts": [
+  "An old man with short grey hair and a lined, clean-shaven face, in a long rust-brown wool coat with a patched elbow and brown leather gloves warms his hands at a log fire in a stone cottage. He lowers his hands, turns, takes a slow step to the end of the wooden bench beside the fire and sits down on it, resting his gloved hands on his knees and looking down at the fire. His slow footsteps sound on the dirt floor and the bench creaks as he sits. The camera is locked off and does not move. He is the only person in the room. Audio: the steady crackle and pop of the log fire, no music, no speech.",
+  "An old man with short grey hair and a lined, clean-shaven face, in a long rust-brown wool coat with a patched elbow and brown leather gloves sits on the end of a wooden bench beside a log fire in a stone cottage, hands on his knees. He breathes out slowly, then leans forward, rests his forearms on his knees, clasps his gloved hands together and gazes into the fire. The bench creaks as he leans. The camera is locked off and does not move. He is the only person in the room. Audio: the steady crackle and pop of the log fire, no music, no speech.",
+  "An old man with short grey hair and a lined, clean-shaven face, in a long rust-brown wool coat with a patched elbow and brown leather gloves sits on the end of a wooden bench beside a log fire in a stone cottage, leaning forward with his forearms on his knees. He straightens up, pushes himself to his feet, steps to the hearth, rests one gloved hand on the wooden mantel beam and turns his face toward the camera. The bench creaks as he rises. The camera is locked off and does not move. He is the only person in the room. Audio: the steady crackle and pop of the log fire, no music, no speech."
+ ],
+ "cast_sentences": {
+  "P0": "Add the man from the second image standing on the dirt floor in front of the hearth, side-on to the camera, holding both hands out toward the fire.",
+  "P1": "Add the man from the second image sitting on the wooden bench under the window, facing the fire, with his hands resting on his knees.",
+  "P2": "Add the man from the second image sitting on the wooden bench under the window, leaning forward with his elbows on his knees, gazing into the fire.",
+  "P3": "Add the man from the second image standing on the dirt floor beside the bench, facing the camera, with one hand resting on the window ledge."
+ },
+ "cast_note": "Krea2Edit, ref_boost 4.0, image_b = the character sheet, 4 seeds per pose, one picked. The edit model kept him within a step or two of the hearth whatever the sentence said (P1-P3 asked for the bench under the window and the window ledge); the clip prompts were written to match the plates as rendered, not the sentences."
+}
